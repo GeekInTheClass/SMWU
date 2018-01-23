@@ -41,6 +41,7 @@ class HRModel {
         self.detail.append(details(name: "안동국제탈춤페스티벌", place: "경상북도 안동시 육사로 239(운흥동)", price: 0, subject: ["탈춤이 가진 신명을 통해 동적인 발산을 체험하게 되는 것이다."]))
         self.detail.append(details(name: "신라소리축제 에밀리전", place: "경상북도 안동시 육사로 239(운흥동)", price: 0, subject: ["탈춤이 가진 신명을 통해 동적인 발산을 체험하게 되는 것이다."]))
         self.detail.append(details(name: "이천도자기축제", place: "경기도 이천시 경충대로 2697번길 306 (관고동)", price: 0, subject: ["대한민국 최고의 도자문화종합 축제로서 올해는 4월 28일부터 5월 14일까지 생동감있는 마당잔치를 연다."]))
+    }
         
         
 }
